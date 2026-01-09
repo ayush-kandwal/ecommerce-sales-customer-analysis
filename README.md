@@ -59,7 +59,11 @@ Sql/Kpi's
 
 ## Dashboard Summary
 
-### Page 1 – Sales Performance
+
+### Page 1 – Sales Performance Overview
+![Sales Performance Dashboard](screenshots/dashboard_page_1_overview.png)
+
+**Key metrics and visuals:**
 - Total Revenue
 - Total Orders
 - Total Customers
@@ -67,15 +71,18 @@ Sql/Kpi's
 - Monthly Revenue Trend
 - Top Product Categories by Revenue
 
+---
+
 ### Page 2 – Customer & Regional Insights
+![Customer & Regional Dashboard](screenshots/dashboard_page_2_customer_regional.png)
+
+**Key metrics and visuals:**
 - Repeat Purchase Rate
 - New Customer Rate
 - Average Customer Lifetime Value
 - Top 10 Customers by Revenue
-- Top Regions by Order Volume
-- Orders vs Sellers by Region
+- Regional Demand vs Seller Supply
 
-Dashboard visuals are available in the screenshots folder.
 
 ---
 
