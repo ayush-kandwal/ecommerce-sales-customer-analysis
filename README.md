@@ -52,3 +52,46 @@ Raw data was transformed into clean analytical KPI datasets using SQL.
 - Regional Demand vs Seller Supply
 
 SQL logic for all KPIs is available in:
+Sql/Kpi's
+
+
+---
+
+## Dashboard Summary
+
+### Page 1 – Sales Performance
+- Total Revenue
+- Total Orders
+- Total Customers
+- Average Order Value
+- Monthly Revenue Trend
+- Top Product Categories by Revenue
+
+### Page 2 – Customer & Regional Insights
+- Repeat Purchase Rate
+- New Customer Rate
+- Average Customer Lifetime Value
+- Top 10 Customers by Revenue
+- Top Regions by Order Volume
+- Orders vs Sellers by Region
+
+Dashboard visuals are available in the screenshots folder.
+
+---
+
+## Key Business Insights
+- Revenue growth shows clear monthly trends
+- A small set of categories contributes most revenue
+- Customer base is heavily driven by new customers
+- Repeat purchase rate is relatively low
+- Regional demand and seller availability are imbalanced
+
+---
+
+## Project Structure
+ecommerce-sales-customer-performance/
+├── sql/
+├── data/clean/
+├── dashboards/
+├── screenshots/
+└── README.md
