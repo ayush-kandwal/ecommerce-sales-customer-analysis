@@ -95,3 +95,15 @@ ecommerce-sales-customer-performance/
 ├── dashboards/
 ├── screenshots/
 └── README.md
+
+---
+
+## Author
+Ayush Kandwal  
+Business & Data Analyst (Fresher)
+
+---
+
+## Notes
+This project was built as a portfolio initiative to demonstrate business analytics
+thinking, SQL proficiency, and dashboard storytelling using real-world data.
