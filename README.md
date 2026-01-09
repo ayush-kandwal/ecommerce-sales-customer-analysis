@@ -61,7 +61,7 @@ Sql/Kpi's
 
 
 ### Page 1 – Sales Performance Overview
-![Sales Performance Dashboard](screenshots/dashboard_page_1_overview.png)
+![Sales Performance Dashboard](Screenshot/dashboard_page_1_overview.png)
 
 **Key metrics and visuals:**
 - Total Revenue
@@ -74,7 +74,7 @@ Sql/Kpi's
 ---
 
 ### Page 2 – Customer & Regional Insights
-![Customer & Regional Dashboard](screenshots/dashboard_page_2_customer_regional.png)
+![Customer & Regional Dashboard](Screenshot/dashboard_page_2_customer_regional.png)
 
 **Key metrics and visuals:**
 - Repeat Purchase Rate
